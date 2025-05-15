@@ -1,0 +1,12 @@
+FROM python:3.9.6
+ENV PYTHONUNBUFFERED=1
+ENV APP_HOME=/home/app/web
+RUN mkdir -p $APP_HOME
+RUN mkdir -p $APP_HOME/app
+RUN mkdir -p $APP_HOME/data
+WORKDIR $APP_HOME
+ADD requirements.txt $APP_HOME
+RUN python -m pip install --upgrade pip
+RUN pip install -r /home/app/web/requirements.txt
+COPY /app/ $APP_HOME/app
+CMD ["uvicorn", "app.main:app", "--host", "0.0.0.0", "--port", "8080"]

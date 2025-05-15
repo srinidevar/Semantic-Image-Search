@@ -1,0 +1,27 @@
+/* .app-container {
+    min-height: 700px;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+}
+
+.btn-delete-user {
+    width: 40px;
+    text-align: center;
+    box-sizing: content-box;
+}*/
+.dot {
+  width: 15px;
+  height: 15px;
+  background: #000000;
+  border-radius: 10px;
+  position: absolute;
+  top: 30px;
+  left: 30px;
+}
+body {
+  background-image: url("./5040007.jpg");
+}
+.anchor a{
+  color: #ffffff;
+}

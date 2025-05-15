@@ -1,0 +1,212 @@
+[
+  {
+    "key": 0,
+    "Unique_id": 18790362,
+    "Product_description": "logo-patch crew-neck sweatshirt",
+    "Category": "Clothing",
+    "Stock": 48,
+    "Price": 105,
+    "image": "https://cdn-images.farfetch-contents.com/18/79/03/62/18790362_41522052_480.jpg",
+    "Source": "../../data/data_farfetch_plp_usa_e0001_20230623.ssv"
+  },
+  {
+    "key": 1,
+    "Unique_id": 20153998,
+    "Product_description": "floral-print ruched minidress",
+    "Category": "Dresses",
+    "Stock": 25,
+    "Price": 569,
+    "image": "https://cdn-images.farfetch-contents.com/20/15/39/98/20153998_50117208_480.jpg",
+    "Source": "../../data/data_farfetch_plp_usa_e0001_20230623.ssv"
+  },
+  {
+    "key": 2,
+    "Unique_id": 20124138,
+    "Product_description": "cargo cotton shorts",
+    "Category": "Clothing.",
+    "Stock": 81,
+    "Price": 166,
+    "image": "https://cdn-images.farfetch-contents.com/20/12/41/38/20124138_50600110_480.jpg",
+    "Source": "../../data/data_farfetch_plp_usa_e0001_20230623.ssv"
+  },
+  {
+    "key": 3,
+    "Unique_id": 19788901,
+    "Product_description": "straight-leg corduroy trousers",
+    "Category": "Clothing.",
+    "Stock": 193,
+    "Price": 175,
+    "image": "https://cdn-images.farfetch-contents.com/19/78/89/01/19788901_44511006_480.jpg",
+    "Source": "../../data/data_farfetch_plp_usa_e0001_20230623.ssv"
+  },
+  {
+    "key": 4,
+    "Unique_id": 18270313,
+    "Product_description": "graphic-print T-shirt",
+    "Category": "Apparel.",
+    "Stock": 95,
+    "Price": 195,
+    "image": "https://cdn-images.farfetch-contents.com/18/27/03/13/18270313_39987493_480.jpg",
+    "Source": "../../data/data_farfetch_plp_usa_e0001_20230623.ssv"
+  },
+  {
+    "key": 5,
+    "Unique_id": 19216089,
+    "Product_description": "Tor Ultra Hi GORE-TEX sneakers",
+    "Category": "Shoes",
+    "Stock": 77,
+    "Price": 335,
+    "image": "https://cdn-images.farfetch-contents.com/19/21/60/89/19216089_42090516_480.jpg",
+    "Source": "../../data/data_farfetch_plp_usa_e0001_20230623.ssv"
+  },
+  {
+    "key": 6,
+    "Unique_id": 18165932,
+    "Product_description": "logo-print pullover hoodie",
+    "Category": "Apparel & Accessories",
+    "Stock": 185,
+    "Price": 191,
+    "image": "https://cdn-images.farfetch-contents.com/18/16/59/32/18165932_38615473_480.jpg",
+    "Source": "../../data/data_farfetch_plp_usa_e0001_20230623.ssv"
+  },
+  {
+    "key": 7,
+    "Unique_id": 20152675,
+    "Product_description": "mid-rise wide-leg jeans",
+    "Category": "Clothing.",
+    "Stock": 247,
+    "Price": 430,
+    "image": "https://cdn-images.farfetch-contents.com/20/15/26/75/20152675_50491518_480.jpg",
+    "Source": "../../data/data_farfetch_plp_usa_e0001_20230623.ssv"
+  },
+  {
+    "key": 8,
+    "Unique_id": 18003639,
+    "Product_description": "tapered-leg cashmere trousers",
+    "Category": "Clothing.",
+    "Stock": 17,
+    "Price": 303,
+    "image": "https://cdn-images.farfetch-contents.com/18/00/36/39/18003639_38296579_480.jpg",
+    "Source": "../../data/data_farfetch_plp_usa_e0001_20230623.ssv"
+  },
+  {
+    "key": 9,
+    "Unique_id": 20040435,
+    "Product_description": "belted midi dress",
+    "Category": "Clothing",
+    "Stock": 25,
+    "Price": 1060,
+    "image": "https://cdn-images.farfetch-contents.com/20/04/04/35/20040435_45078178_480.jpg",
+    "Source": "../../data/data_farfetch_plp_usa_e0001_20230623.ssv"
+  },
+  {
+    "key": 10,
+    "Unique_id": 17696727,
+    "Product_description": "Jane check-print sandals",
+    "Category": "Shoes",
+    "Stock": 249,
+    "Price": 349,
+    "image": "https://cdn-images.farfetch-contents.com/17/69/67/27/17696727_39336188_480.jpg",
+    "Source": "../../data/data_farfetch_plp_usa_e0001_20230623.ssv"
+  },
+  {
+    "key": 11,
+    "Unique_id": 19629146,
+    "Product_description": "graphic logo-print T-shirt",
+    "Category": "Apparel & Accessories",
+    "Stock": 45,
+    "Price": 175,
+    "image": "https://cdn-images.farfetch-contents.com/19/62/91/46/19629146_43892923_480.jpg",
+    "Source": "../../data/data_farfetch_plp_usa_e0001_20230623.ssv"
+  },
+  {
+    "key": 12,
+    "Unique_id": 19226121,
+    "Product_description": "Love Thy Neighbour slogan T-shirt",
+    "Category": "Apparel & Accessories",
+    "Stock": 67,
+    "Price": 131,
+    "image": "https://cdn-images.farfetch-contents.com/19/22/61/21/19226121_42090149_480.jpg",
+    "Source": "../../data/data_farfetch_plp_usa_e0001_20230623.ssv"
+  },
+  {
+    "key": 13,
+    "Unique_id": 17175974,
+    "Product_description": "drawstring-waist drop-crotch trousers",
+    "Category": "Pants & Trousers",
+    "Stock": 41,
+    "Price": 1914,
+    "image": "https://cdn-images.farfetch-contents.com/17/17/59/74/17175974_34800002_480.jpg",
+    "Source": "../../data/data_farfetch_plp_usa_e0001_20230623.ssv"
+  },
+  {
+    "key": 14,
+    "Unique_id": 15077349,
+    "Product_description": "logo patch dress",
+    "Category": "Clothing",
+    "Stock": 176,
+    "Price": 320,
+    "image": "https://cdn-images.farfetch-contents.com/15/07/73/49/15077349_25370824_480.jpg",
+    "Source": "../../data/data_farfetch_plp_usa_e0001_20230623.ssv"
+  },
+  {
+    "key": 15,
+    "Unique_id": 17564944,
+    "Product_description": "floral-applique knit cardigan",
+    "Category": "Clothing",
+    "Stock": 99,
+    "Price": 614,
+    "image": "https://cdn-images.farfetch-contents.com/17/56/49/44/17564944_37143362_480.jpg",
+    "Source": "../../data/data_farfetch_plp_usa_e0001_20230623.ssv"
+  },
+  {
+    "key": 16,
+    "Unique_id": 19119736,
+    "Product_description": "logo-embroidered bootcut trousers",
+    "Category": "Clothing.",
+    "Stock": 167,
+    "Price": 558,
+    "image": "https://cdn-images.farfetch-contents.com/19/11/97/36/19119736_41880383_480.jpg",
+    "Source": "../../data/data_farfetch_plp_usa_e0001_20230623.ssv"
+  },
+  {
+    "key": 17,
+    "Unique_id": 17839875,
+    "Product_description": "cropped track pants",
+    "Category": "Apparel & Accessories",
+    "Stock": 102,
+    "Price": 648,
+    "image": "https://cdn-images.farfetch-contents.com/17/83/98/75/17839875_37749927_480.jpg",
+    "Source": "../../data/data_farfetch_plp_usa_e0001_20230623.ssv"
+  },
+  {
+    "key": 18,
+    "Unique_id": 16725330,
+    "Product_description": "Graffiti intarsia-knit jumper",
+    "Category": "Clothing",
+    "Stock": 135,
+    "Price": 990,
+    "image": "https://cdn-images.farfetch-contents.com/16/72/53/30/16725330_33033056_480.jpg",
+    "Source": "../../data/data_farfetch_plp_usa_e0001_20230623.ssv"
+  },
+  {
+    "key": 19,
+    "Unique_id": 18914745,
+    "Product_description": "panelled-design shirt",
+    "Category": "Clothing",
+    "Stock": 92,
+    "Price": 460,
+    "image": "https://cdn-images.farfetch-contents.com/18/91/47/45/18914745_41390815_480.jpg",
+    "Source": "../../data/data_farfetch_plp_usa_e0001_20230623.ssv"
+  },
+  {
+    "key": 20,
+    "Unique_id": 19751202,
+    "Product_description": "short linen-flax dungarees",
+    "Category": "Clothing.",
+    "Stock": 91,
+    "Price": 172,
+    "image": "https://cdn-images.farfetch-contents.com/19/75/12/02/19751202_44583124_480.jpg",
+    "Source": "../../data/data_farfetch_plp_usa_e0001_20230623.ssv"
+  }
+]

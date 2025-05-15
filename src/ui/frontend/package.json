@@ -1,0 +1,26 @@
+{
+  "name": "package.json",
+  "private": true,
+  "version": "0.0.0",
+  "scripts": {
+    "dev": "vite --host",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "axios": "^1.4.0",
+    "markdown-it": "^13.0.1",
+    "marked": "^5.1.2",
+    "pinia": "^2.0.13",
+    "vee-validate": "^4.5.11",
+    "vue": "^3.2.25",
+    "vue-router": "^4.0.12",
+    "yup": "^0.32.11"
+  },
+  "devDependencies": {
+    "@types/markdown-it": "^12.2.3",
+    "@vitejs/plugin-vue": "^2.2.0",
+    "sass": "^1.49.8",
+    "vite": "^2.8.0"
+  }
+}
