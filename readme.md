@@ -59,4 +59,4 @@ Development and testing happened on a macbook. Indexed about 200 images and test
 - Security hardening
 - and a few more...
 
-*Note - I am sharing this code base AS-IS. I won't be able to respond to any questions due to my work schedule*
+*Note - I am sharing this code base AS-IS.*
